@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Kandil</title>
+    <link>https://github.com/kenopahq/releases/releases</link>
+    <language>en</language>
+    <!-- Seeded empty appcast. publish.yml replaces this on each release. -->
+  </channel>
+</rss>
