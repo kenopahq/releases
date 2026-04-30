@@ -4,6 +4,17 @@
     <title>Kandil</title>
     <link>https://github.com/kenopahq/releases/releases</link>
     <language>en</language>
-    <!-- Seeded empty appcast. publish.yml replaces this on each release. -->
+    <item>
+      <title>1.0.3</title>
+      <pubDate>Thu, 30 Apr 2026 04:56:52 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/kenopahq/releases/releases/download/kandil-v1.0.3/Kandil-1.0.3.zip"
+        type="application/octet-stream"
+        sparkle:edSignature=""
+        length="6647434" />
+    </item>
   </channel>
 </rss>
