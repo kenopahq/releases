@@ -5,16 +5,16 @@
     <link>https://github.com/kenopahq/releases/releases</link>
     <language>en</language>
     <item>
-      <title>1.0.6</title>
-      <pubDate>Sat, 02 May 2026 18:39:40 +0000</pubDate>
-      <sparkle:version>1</sparkle:version>
-      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <title>1.0.7</title>
+      <pubDate>Mon, 04 May 2026 19:05:41 +0000</pubDate>
+      <sparkle:version>70</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/kenopahq/releases/releases/download/kandil-v1.0.6/Kandil-1.0.6.zip"
+        url="https://github.com/kenopahq/releases/releases/download/kandil-v1.0.7/Kandil-1.0.7.zip"
         type="application/octet-stream"
-        sparkle:edSignature="0AlXsuqmlHZbdHkBUbiEF/6WXefSqkFCUcVpS5mZXQbitkoudiSbkRAwns7fQ6925IO6nteKv34WUZZmsUtfAw=="
-        length="6647521" />
+        sparkle:edSignature="DTxYSRZxEQoEBFwFV+lP7I5OCYsCZIapjVyKf80yGg9jVy0U7M9MQ+v0VVQwH8gJE81932vcvHTwXJScNIKOCA=="
+        length="6647534" />
     </item>
   </channel>
 </rss>
