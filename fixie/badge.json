@@ -1,12 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "notarization",
-<<<<<<< Updated upstream
-  "message": "1.0.0 \u00b7 In Progress",
-  "color": "blue",
-=======
-  "message": "1.0.0 \u00b7 Accepted",
-  "color": "green",
->>>>>>> Stashed changes
+  "message": "1.0.0 \u00b7 Published",
+  "color": "brightgreen",
   "cacheSeconds": 60
 }
